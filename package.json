@@ -1,0 +1,17 @@
+{
+  "name": "tech-challange",
+  "version": "0.0.1",
+  "description": "S3 usage",
+  "main": "tool.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amir G. Ravandi",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "aws-sdk": "^2.702.0",
+    "minimist": "^1.2.5",
+    "moment": "^2.27.0"
+  }
+}
